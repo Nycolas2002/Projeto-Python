@@ -1,0 +1,52 @@
+{
+  "1": {
+    "quantidade": 50,
+    "custo_medio": 0.75,
+    "preco_venda": 1.5
+  },
+  "2": {
+    "quantidade": 30,
+    "custo_medio": 4.2,
+    "preco_venda": 6.99
+  },
+  "3": {
+    "quantidade": 22,
+    "custo_medio": 8.0,
+    "preco_venda": 14.9
+  },
+  "4": {
+    "quantidade": 20,
+    "custo_medio": 9.5,
+    "preco_venda": 16.9
+  },
+  "5": {
+    "quantidade": 25,
+    "custo_medio": 9.56,
+    "preco_venda": 12.0
+  },
+  "6": {
+    "quantidade": 40,
+    "custo_medio": 3.5,
+    "preco_venda": 6.5
+  },
+  "7": {
+    "quantidade": 25,
+    "custo_medio": 5.0,
+    "preco_venda": 8.9
+  },
+  "8": {
+    "quantidade": 60,
+    "custo_medio": 1.0,
+    "preco_venda": 2.5
+  },
+  "9": {
+    "quantidade": 28,
+    "custo_medio": 6.0,
+    "preco_venda": 10.9
+  },
+  "10": {
+    "quantidade": 5,
+    "custo_medio": 5.5,
+    "preco_venda": 9.9
+  }
+}
